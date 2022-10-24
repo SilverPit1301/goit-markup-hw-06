@@ -614,6 +614,7 @@ body {
     padding-left: 16px;
     color: var(--teambackground-color);
     background-color: transparent;
+    outline: transparent;
 }
 
 .footer-input-email::placeholder {
